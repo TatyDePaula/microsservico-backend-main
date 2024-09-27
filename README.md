@@ -13,7 +13,7 @@ Antes de começar, você precisará ter os seguintes programas instalados na sua
 
 A estrutura do projeto é a seguinte:
 
-microsservico/
+microsservico-backend-main/
 │
 ├── backend/
 │   ├── __init__.py
@@ -45,7 +45,7 @@ Siga os passos abaixo para executar o projeto usando Docker.
 Clone este repositório em sua máquina:
 
 ```bash
-git clone https://github.com/TatyDePaula/microsservico.git
+git clone https://github.com/TatyDePaula/microsservico-backend-main.git
 cd microsservico-backend
 
 Passo 2: Construir a imagem Docker
